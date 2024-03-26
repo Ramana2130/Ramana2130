@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning to make **MERN Stack Projects ;)**
 
-- 📫 How to reach me [**ramanaraj7143@gmail.com**](mailtoramanaraj7143@gmail.com)
+- 📫 How to reach me [**ramanaraj7143@gmail.com**](mailto:ramanaraj7143@gmail.com)
 
 ---
 
