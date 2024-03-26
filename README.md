@@ -4,19 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;I%20💙%20Community;Programming%20Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Developer%20from%20India;&center=true&width=570&height=45" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ramana-s">
-    <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://blank-09.github.io/">
-    <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
-  </a>
-  <a href="https://github.com/blank-09">
-    <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=Blank-09&style=for-the-badge"/>
-  </a>
-</p>
 
-![Rainbow Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💫 **About Me:**
 
